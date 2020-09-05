@@ -1,0 +1,23 @@
+.tw{
+    color: #ffffff;
+}
+.bgblack{
+    background-color: #000000;
+}
+
+.toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #1f2d40;
+    color: white;
+    font-weight: 600;
+    }
+
+    .ml10{
+        margin-left: 1%;
+    }
